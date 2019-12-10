@@ -4,7 +4,7 @@ This repo contains slides and materials for Web assembly and Blazor
 
 ## Tools
 
-This repo is highly dependant on Mono SDK. Please install them first.
+This repo is highly dependant on Mono SDK. Please install it first.
 
 1. [Mono SDK](https://www.mono-project.com/download/stable/)
 3. [Mono Wasm Compiler](https://jenkins.mono-project.com/jobtest-mono-mainline-wasm/label=ubuntu-1804-amd64/lastSuccessfulBuild/Azure/)
